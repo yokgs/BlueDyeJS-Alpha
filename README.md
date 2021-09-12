@@ -1,5 +1,5 @@
 # BlueDyeJS-Alpha
-Small version of <a href="https://github.com/yokgs/BlueDyeJS">@yokgs/BlueDyeJS</a>
+Small version of [@yokgs/BlueDyeJS](https://github.com/yokgs/BlueDyeJS)
 
 ## Usage
 ```javascript
